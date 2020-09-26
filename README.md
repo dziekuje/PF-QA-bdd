@@ -1,3 +1,10 @@
+TODO:
+-install pytest-bdd
+-install behave
+-install adv.reports for pytest
+-install module for parallels tests
+-write test1
+
 >mkdir >cd
 
 >git init / git clone https..
@@ -22,3 +29,4 @@
 //python3 in PyCharm interpreter
 
     >git rm --cached -r .idea
+    
